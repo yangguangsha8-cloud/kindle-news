@@ -7,7 +7,7 @@
   <id>urn:kindle-news:muse-daily</id>
   <entry>
     <title>2026-10-30 18:00 测试：如果你在 Kindle 上看到这条，抓取就通了</title>
-    <link href="https://yangguangsha8-cloud.github.io/kindle-news/feed.atom"/>
+    <link href="https://yangguangsha8-cloud.github.io/kindle-news/test.html"/>
     <id>urn:kindle-news:test-20261030-1800</id>
     <updated>2026-10-30T10:00:00Z</updated>
     <summary>这是刚才现推的一条测试，专门用来验证 Kindle 抓取。看到这条就说明源、发布和同步三步都通了。</summary>
