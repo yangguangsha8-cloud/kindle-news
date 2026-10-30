@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Muse 每日重点新闻</title>
+    <link>https://yangguangsha8-cloud.github.io/kindle-news/feed.xml</link>
+    <description>每天整理：财经 / 大政治 / 大科技 / 当日数据事件，专供 KOReader 抓取</description>
+    <language>zh-CN</language>
+    <item>
+      <title>2026-10-30 源已接通：从明天早上起，这里每天更新</title>
+      <description>这是 kindle-news 源的第一条测试内容，用来确认 GitHub Pages 和 KOReader 抓取都通了。从明天早上起，这里每天更新财经、大政治、大科技和当日数据事件的整理，不用再订阅多个源。</description>
+      <content:encoded><![CDATA[<p>这是 kindle-news 源的第一条测试内容，用来确认 GitHub Pages 和 KOReader 抓取都通了。</p><p>从明天早上起，这里每天更新财经、大政治、大科技和当日数据事件的整理。Kindle 里只需要订阅 https://yangguangsha8-cloud.github.io/kindle-news/feed.xml 这一个源，每天点一次同步就能读。</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>
